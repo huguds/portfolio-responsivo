@@ -15,8 +15,7 @@
   <br/>
 
   ## 📚 Bibliotecas <br/>
-  * Atxy2k <br/>
-  * dom4j-2.1.3 <br/>
+  * Bootstrap <br/>
   <br/>
   
 ## :man_technologist: Skills
@@ -35,7 +34,7 @@ git clone https://github.com/huguds/Search_CEP
 
 # Entrar numa IDE de sua preferência 
 
-# Executar o sistema
+# Executar o portfólio
 
 ```
 
