@@ -14,7 +14,7 @@
   * JS   ![js](https://user-images.githubusercontent.com/79457377/139062940-36b0a8b1-52dd-4db3-82e9-4329b6ebe430.png)
   <br/>
 
-  ## 📚 Bibliotecas <br/>
+  ## 📚 Framework <br/>
   * Bootstrap <br/>
   <br/>
   
