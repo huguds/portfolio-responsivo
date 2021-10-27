@@ -10,5 +10,6 @@
 
   
 ## 🚀 Tecnologia <br/>
-  * HTML ![html](https://user-images.githubusercontent.com/79457377/139062065-17a42c28-9a8c-49ee-a771-a5b3de448d95.png)
+  * HTML ![html](https://user-images.githubusercontent.com/79457377/139062289-9ed7fd94-39a6-4647-bdc5-1db13f818f7f.png)
   <br/>
+
