@@ -11,7 +11,7 @@
   
 ## 🚀 Tecnologia <br/>
   * HTML ![html](https://user-images.githubusercontent.com/79457377/139062289-9ed7fd94-39a6-4647-bdc5-1db13f818f7f.png)
-  * CSS  ![css](https://user-images.githubusercontent.com/79457377/139062748-12a55afd-51ce-471f-a6f2-7ff852f0b213.png)
-  * JS 
+  * CSS  ![css](https://user-images.githubusercontent.com/79457377/139062839-083c0065-96c5-4bc1-8678-33bb132f29d6.png)
+  * JS   ![js](https://user-images.githubusercontent.com/79457377/139062940-36b0a8b1-52dd-4db3-82e9-4329b6ebe430.png)
   <br/>
 
