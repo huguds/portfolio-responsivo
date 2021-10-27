@@ -20,11 +20,11 @@
   <br/>
   
 ## :man_technologist: Skills
-  - :heavy_check_mark: Abertura de sites externos 
-  - :heavy_check_mark: Leitura de dados em XML
-  - :heavy_check_mark: Utilização de icones em caixas de dialogo
-  - :heavy_check_mark: Utilização de icones para verificação de Status
-  - :heavy_check_mark: Passagem de parâmetros para campos de textos
+  - :heavy_check_mark: Responsividade com Bootstrap
+  - :heavy_check_mark: Estilização
+  - :heavy_check_mark: ScrollBar
+  - :heavy_check_mark: ProgressBar
+  - :heavy_check_mark: Envio de formulário
   <br/>
   
   # 👷 Como rodar
