@@ -2,7 +2,7 @@
 
 ## Informações sobre o Portfólio Responsivo 🔖
 
-<h1> O <Strong> Portfólio Responsivo <Strong/> é um portfólio completo. Um Projeto que pode ser apresentado para as empresas como um curriculo e um projeto ! </h1>
+<h1> O <Strong> Portfólio Responsivo <Strong/> é um portfólio completo. Um Projeto que pode ser apresentado para as empresas como um currículo e um projeto ! </h1>
 <br/>
   
 ## 🖼 Screenshot do Portfólio <br/>
