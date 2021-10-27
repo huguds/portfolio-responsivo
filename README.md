@@ -1,4 +1,4 @@
-# Portfólio Responsivo 🗒️
+# Portfólio Responsivo ![portfolio](https://user-images.githubusercontent.com/79457377/139063633-6ca2a02d-ba92-4249-afbb-1aead0d39d90.png)
 
 ## 🔖 Informações sobre o Portfólio Responsivo
 
