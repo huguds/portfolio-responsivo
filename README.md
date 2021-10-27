@@ -2,7 +2,7 @@
 
 ## 🔖 Informações sobre o Portfólio Responsivo
 
-<h1> O <Strong> Portfólio Responsivo <Strong/> é um portfólio completo, utilizado para apresentar para as empresas como um curriculo e um projeto ! </h1>
+<h1> O <Strong> Portfólio Responsivo <Strong/> é um portfólio completo. Um Projeto que pode ser apresentado para as empresas como um curriculo e um projeto ! </h1>
 <br/>
   
 ## 🖼 Screenshot do Portfólio <br/>
@@ -10,5 +10,5 @@
 
   
 ## 🚀 Tecnologia <br/>
-  * HTML <img https://www.flaticon.com/br/icone-gratis/arquivo-html-com-simbolo-de-codigo_29515?term=html&page=1&position=2&page=1&position=2&related_id=29515&origin=search>
+  * HTML ![html](https://user-images.githubusercontent.com/79457377/139062065-17a42c28-9a8c-49ee-a771-a5b3de448d95.png)
   <br/>
