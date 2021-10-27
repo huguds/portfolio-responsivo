@@ -1,6 +1,6 @@
 # Portfólio Responsivo ![portfolio](https://user-images.githubusercontent.com/79457377/139063633-6ca2a02d-ba92-4249-afbb-1aead0d39d90.png)
 
-## 🔖 Informações sobre o Portfólio Responsivo
+## Informações sobre o Portfólio Responsivo 🔖
 
 <h1> O <Strong> Portfólio Responsivo <Strong/> é um portfólio completo. Um Projeto que pode ser apresentado para as empresas como um curriculo e um projeto ! </h1>
 <br/>
